@@ -4,7 +4,7 @@
 
 # 사용방법
 
-`Tesseract`를 다운 받은 후 다운받은 경로에 [한글 데이터](https://github.com/tesseract-ocr/tessdata/blob/main/kor.traineddata)를 넣어줍니다
+[Tesseract를 다운](https://github.com/tesseract-ocr/tesseract#installing-tesseract) 받은 후 다운받은 경로에 [한글 데이터](https://github.com/tesseract-ocr/tessdata/blob/main/kor.traineddata)를 넣어줍니다
 
 e.g. `📁C:/Program Files/Tesseract-OCR/tessdata/kor.traineddata`
 
